@@ -5,3 +5,5 @@
 3 Start preparing food
 
 4 Take Shower
+
+5 Get ready
